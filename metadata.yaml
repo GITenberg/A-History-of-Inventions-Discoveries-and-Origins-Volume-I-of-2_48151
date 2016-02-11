@@ -1,0 +1,33 @@
+_repo: A-History-of-Inventions-Discoveries-and-Origins-Volume-I-of-2_48151
+contributor:
+  creator:
+    editors:
+    - agent_name: Francis, William
+      gutenberg_agent_id: '44649'
+      url: http://www.gutenberg.org/2009/agents/44649
+    - agent_name: Griffith, J. W.
+      gutenberg_agent_id: '44650'
+      url: http://www.gutenberg.org/2009/agents/44650
+  translator:
+    agent_name: Johnston, William, 1871-1929
+    alias: Johnston, William Andrew
+    birthdate: 1871
+    deathdate: 1929
+    gutenberg_agent_id: '3897'
+    url: http://www.gutenberg.org/2009/agents/3897
+creator:
+  author:
+    agent_name: Beckman, Johann
+    gutenberg_agent_id: '44648'
+    url: http://www.gutenberg.org/2009/agents/44648
+description: ''
+gutenberg_issued: '2015-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48151'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: A History of Inventions, Discoveries, and Origins, Volume I (of 2)
+url: http://www.gutenberg.org/ebooks/48151
