@@ -35,5 +35,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: A History of Inventions, Discoveries, and Origins, Volume I (of 2)
 url: http://www.gutenberg.org/ebooks/48151
